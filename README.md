@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ruby, Front End.
 - 🌱 I’m currently learning Ruby and Front End.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: telegram: @ks_dn
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I love table tennis.
 
