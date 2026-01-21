@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @rift-100
-- 👀 I’m interested in Ruby, Front End.
-- 🌱 I’m currently learning Ruby and Front End.
+- 👀 I’m interested in Ruby, Front End, Python, Linux.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: telegram: @ks_dn
 - 😄 Pronouns: he/his
-- ⚡ Fun fact: I love table tennis.
+- 🏓 Fun fact: I love table tennis.
 - 🐧 I use arch btw
 
 <!---
