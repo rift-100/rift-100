@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: telegram: @ks_dn
-- 😄 Pronouns: he/his
+- ♂️ Pronouns: he/his
 - 🏓 Fun fact: I love table tennis.
 - 🐧 I use arch btw
 
