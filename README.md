@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rift-100
+- 🤘🏻 Hi, I’m @rift-100
 - 👀 I’m interested in Ruby, Front End, Python, Linux.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on ...
